@@ -12,7 +12,6 @@ A desktop application built with **PyQt5** that allows users to **encrypt and de
 * **Automatic decryption:** Recover original messages from encrypted text
 * **Modern dark UI:** Intuitive and minimalist graphical interface
 * **File management:** Save and load encrypted messages easily
-* **Optional music player:** MP3 playback integration
 * **High security:** Each character is replaced by a unique, long substitution string
 * **Focused interface:** Clean design optimized for encryption/decryption tasks
 
